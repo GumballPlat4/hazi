@@ -1,0 +1,17 @@
+magyar
+tortenelem
+biologia
+osztalyfonoki
+vizualis
+foldrajz
+fizika
+testneveles
+nemet
+kemia
+matematika
+enek
+angol
+informatika
+etika
+eletvitel
+filozofia
